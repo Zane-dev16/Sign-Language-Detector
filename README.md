@@ -21,4 +21,5 @@ The primary goal of this project is to develop a full-stack data science applica
 - **TensorFlow:** Deep learning framework used for building and training machine learning models.
 - **OpenCV:** Computer vision library used for image and video processing.
 
-- **References:** Links to papers, articles, or documentation that guided the project's development.
+## References 
+Links to papers, articles, or documentation that guided the project's development.
