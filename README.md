@@ -17,9 +17,8 @@ The primary goal of this project is to develop a full-stack data science applica
 - **Integration:** Connect the backend model with the frontend UI for real-time detection and translation.
 - **Testing and Validation:** Perform extensive testing to ensure accurate detection and translation of sign language gestures.
 
-## How to Contribute
-Contributions to this project are welcomed! Whether it's enhancing the user interface, improving the recognition models, or optimizing performance, your contributions can make a significant impact. Feel free to fork the repository, create branches, and submit pull requests.
+## Libraries Used
+- **TensorFlow:** Deep learning framework used for building and training machine learning models.
+- **OpenCV:** Computer vision library used for image and video processing.
 
-## Resources
-- **Libraries Used:** List of libraries and frameworks utilized in the project.
 - **References:** Links to papers, articles, or documentation that guided the project's development.
