@@ -5,7 +5,7 @@ The primary goal of this project is to develop a full-stack data science applica
 
 1. **Sign Language Recognition:** Implement a computer vision system to detect and interpret sign language gestures captured through the webcam.
 2. **Translation Capability:** Convert the recognized sign language into text.
-3. **Deplyment:** Develop and Deploy web interface for users to interact with the sign language detection and translation system.
+3. **Deployment:** Develop and Deploy web interface for users to interact with the sign language detection and translation system.
 
 ## Current Status
 
